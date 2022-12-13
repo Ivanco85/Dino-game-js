@@ -42,7 +42,5 @@ function jampalert() {
     }
 }
 
-
-
 setInterval(jampalert, 2);
 
